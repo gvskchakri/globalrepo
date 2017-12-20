@@ -1,0 +1,2 @@
+# globalrepo
+global
